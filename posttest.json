@@ -1,0 +1,52 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "1. Identify the repeating amino acid sequence found in collagen.",
+      "answers": {
+        "a": "Ala-Gly-Ser",
+        "b": "Gly-X-Y",
+        "c": "Pro-Tyr-Lys",
+        "d": "Leu-Ile-Val"
+      },
+ 
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+
+      	 
+
+    {
+      "question": "2. Which of the following is NOT a common type of assay used to quantify cell adhesion?",
+      "answers": {
+        "a": "Cell spreading assay",
+        "b": "Cell migration assay",
+        "c": "Cell attachment assay",
+        "d": "None of the above"
+      },
+      
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+
+    
+    {
+      "question": "3.Name the dye commonly used to stain bound cells in a cell attachment assay.",
+      "answers": {
+        "a": "Hematoxylin",
+        "b": "Crystal violet",
+        "c": "Trypan blue",
+        "d": "Safranin"
+      },
+     
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    }
+  ]
+}	 
+
+
+
+
+
+	 

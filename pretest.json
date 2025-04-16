@@ -1,0 +1,51 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "1. Which of these is the most abundant protein in animals?",
+      "answers": {
+        "a": "Fibronectin",
+        "b": "Laminin",
+        "c": "Vitronectin",
+        "d": "Collagen"
+      },
+ 
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+
+
+
+    {
+      "question": "2. Which of the following proteins form a triple helical coiled coil ?",
+      "answers": {
+        "a": "Fibronectin and collagen",
+        "b": "Vitronectin and collagen",
+        "c": "Fibronectin and Vitronectin",
+        "d": "Collagen"
+      },
+      
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+
+    
+    {
+      "question": "3. An extracellular matrix protein which forms alpha-beta heterodimers ?",
+      "answers": {
+        "a": "Fibronectin",
+        "b": "Vitronectin",
+        "c": "Integrins",
+        "d": "Collagen"
+      },
+     
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    }
+  ]
+}	 
+	 
+	 
+
+ 	 
+
