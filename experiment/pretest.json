@@ -2,28 +2,27 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "1. Hemocytometer was invented by ------",
+      "question": "1. Which of these is the most abundant protein in animals?",
       "answers": {
-        "a": "Wallace H Coulter",
-        "b": "Bonner Sweet",
-        "c": "Louis Charles Malassez",
-        "d": "Claude Bernard"
+        "a": "Fibronectin",
+        "b": "Laminin",
+        "c": "Vitronectin",
+        "d": "Collagen"
       },
  
-      "correctAnswer": "c",
+      "correctAnswer": "d",
       "difficulty": "beginner"
     },
 
-    	 
-    	 
+
 
     {
-      "question": "2. The central square of hemocytometer is divided into-------- number of squares.",
+      "question": "2. Which of the following proteins form a triple helical coiled coil ?",
       "answers": {
-        "a": "20",
-        "b": "25",
-        "c": "30",
-        "d": "35"
+        "a": "Fibronectin and collagen",
+        "b": "Vitronectin and collagen",
+        "c": "Fibronectin and Vitronectin",
+        "d": "Collagen"
       },
       
       "correctAnswer": "b",
@@ -32,18 +31,21 @@
 
     
     {
-      "question": "3. Find the percentage of viable cells, if there is a total of 150 cells including 120 unstained cells.",
+      "question": "3. An extracellular matrix protein which forms alpha-beta heterodimers ?",
       "answers": {
-        "a": "80",
-        "b": "65",
-        "c": "70",
-        "d": "75"
+        "a": "Fibronectin",
+        "b": "Vitronectin",
+        "c": "Integrins",
+        "d": "Collagen"
       },
      
-      "correctAnswer": "a",
+      "correctAnswer": "c",
       "difficulty": "beginner"
     }
   ]
 }	 
 	 
 	 
+
+ 	 
+
