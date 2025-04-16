@@ -1,1 +1,4 @@
-### Aim of the experiment
+### Objective
+ 
+To check the affinity of ligands to cells.
+
